@@ -1,0 +1,5 @@
+vManifest-Version: 1.1
+Main-Class: build\classes\dvd\search\app\DVDSearchApp.class
+Class-Path: dist\DVDSearchApp.jar
+
+
